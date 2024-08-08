@@ -31,7 +31,7 @@ class _SplashScreenState extends State<SplashScreen> {
             tag: "go",
             child: CircleAvatar(
               radius: 80, // Set the radius to 80
-              backgroundImage: AssetImage("assets/icon_back.jpeg"),
+              backgroundImage: AssetImage("assets/zyvra.jpeg"),
               backgroundColor: Colors.transparent,
             ),
           ),
